@@ -10,8 +10,11 @@ vPilot plugin that lets you trigger the vPilot PTT with the PMDG 777 cockpit swi
 Buy me a coffee: https://www.paypal.com/donate/?hosted_button_id=L9JNJAQE6P4PQ
 
 # Installation
-1. Download `Pmdg777MicToTalk.dll` here [Releases](https://github.com/Godehardt2003/PMDG-777-MIC-ToTalk/releases)
-2. Move it into your Plugins folder, usually `C:\Users\XXX\AppData\Local\vPilot\Plugins`.
+1. Download `Pmdg777MicToTalk.zip` here [Releases](https://github.com/Godehardt2003/PMDG-777-MIC-ToTalk/releases)
+2. Extract the ZIP with **WinRAR** or **7-Zip**, not with the built-in Windows extractor.
+3. Move `Pmdg777MicToTalk.dll` into your Plugins folder, usually `C:\Users\XXX\AppData\Local\vPilot\Plugins`.
+
+> **Plugin doesn't work at all?** Windows may have blocked the DLL. Right-click `Pmdg777MicToTalk.dll` -> Properties -> tick **Unblock** (or "Allow") -> OK, then restart vPilot.
 
 # Configuration
 1. Start vPilot and load the PMDG 777 in MSFS.
